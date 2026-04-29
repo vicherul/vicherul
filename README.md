@@ -30,7 +30,6 @@ Passionate designer and curious frontend developer 🇪🇸 🇨🇱
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   <img src="https://img.shields.io/badge/adobe%20indesign-%23FF3366.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=white" alt="indesign" />
   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="premiere" />
   <img src="https://img.shields.io/badge/adobe%20lightroom-%2471A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" alt="lightroom" />
